@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Remove Roblox Recommended",
+  "version": "1.0",
+  "description": "Removes annoyingly large roblox recommended section on the homepage",
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.roblox.com/home"],
+      "js": ["content.js"]
+    }
+  ]
+}
