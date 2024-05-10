@@ -9,7 +9,7 @@ A tool to fix roblox's issue of adding a large and hideous option to the home me
 ![image](https://github.com/hosm100/Remove-Roblox-Recommended/assets/138240259/13efd238-db1e-4255-ba49-56100669336a)
 
 ## How to use
-1. Download the first zip file in [releases](https://github.com/hosm100/Remove-Roblox-Recommended/releases/tag/Release) and extract/unpack it in a suitable folder.
+1. Download the first zip file in [releases](https://github.com/hosm100/Remove-Roblox-Recommended/releases/tag/Release2) and extract/unpack it in a suitable folder.
 2. Go to your Browsers extension page [chrome](chrome://extensions/) [edge](edge://extensions/) and turn on Developer Mode
 ![image](https://github.com/hosm100/Remove-Roblox-Recommended/assets/138240259/c07dc3e5-daba-49b8-b6b1-be41e2421fa5)
 3. Click **Load unpacked** or an equivalent in your browser.
